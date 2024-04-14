@@ -66,5 +66,5 @@
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=C%E1%BA%A3m+%C6%A1n+b%E1%BA%A1n+%C4%91%C3%A3+v%C3%A0o+profile+c%E1%BB%A7a+m%C3%ACnh!+%F0%9F%98%98;N%E1%BA%BFu+mu%C3%B4n+li%C3%AAn+h%E1%BB%87+t%C3%B4i!;Qua+s%E1%BB%91+%C4%91i%E1%BB%87n+tho%E1%BA%A1i+ho%E1%BA%B7c+nh%E1%BA%AFn+tin+qua+facebook!;Thanks">
 </h3>
