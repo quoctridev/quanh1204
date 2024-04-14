@@ -15,12 +15,11 @@
  
  🔭 I’m currently working on **a chat app**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div>
 
 <div align="center"> 
-  <a href="mailto:tintran11.work@gmail.com">
+  <a href="mailto:quocanhnguyen390@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/thanhtin/" target="_blank">
