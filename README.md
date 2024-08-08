@@ -28,7 +28,6 @@
   </a>
 </div>
 
-<h2 align="center">:money_with_wings: freelancer platform :money_with_wings:</h2>
 
 <p align="center">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/85281544/284971938-a65ececb-7042-4a69-b9a6-71381c48b003.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240716%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240716T172551Z&X-Amz-Expires=300&X-Amz-Signature=7359622aa2469324b202767e20e3f2056e2895eac1090624c925dffa47609392&X-Amz-SignedHeaders=host&actor_id=129777203&key_id=0&repo_id=554255993" alt="giphy" />
