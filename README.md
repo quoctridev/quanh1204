@@ -62,6 +62,9 @@
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=quanh1204&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
+<div align='center'>
+    <a href="https://app.daily.dev/quoctrisdev"><img src="https://api.daily.dev/devcards/v2/92QYVRNeWpT8L32bvmA6a.png?type=wide&r=d2h" width="652" alt="Quoc Anh's Dev Card"/></a>
+</div>
 
 
 <div align="center">
