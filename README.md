@@ -11,7 +11,7 @@
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-e8d44d?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-e8d44d?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-6DB33F?style=for-the-badge)
 
 
 ## Technologies & Frameworks
